@@ -1,0 +1,139 @@
+Cmp-Mod V01 Created by PcbNew   date = Fri 09 Mar 2018 11:35:20 AM PST
+
+BeginCmp
+TimeStamp = 4E2F5998
+Path = /4E2F58D5
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = planar_arena:JFRC_1X08;
+EndCmp
+
+BeginCmp
+TimeStamp = 4E2F5992
+Path = /4E2F5996
+Reference = P3;
+ValeurCmp = CONN_8;
+IdModule  = planar_arena:JFRC_1X08;
+EndCmp
+
+BeginCmp
+TimeStamp = 4E2F59A0
+Path = /4E2F597F
+Reference = P5;
+ValeurCmp = CONN_8;
+IdModule  = planar_arena:JFRC_1X08;
+EndCmp
+
+BeginCmp
+TimeStamp = 4E2F5996
+Path = /4E2F59A0
+Reference = P4;
+ValeurCmp = CONN_8;
+IdModule  = planar_arena:JFRC_1X08;
+EndCmp
+
+BeginCmp
+TimeStamp = 4E2F5990
+Path = /4E2F5990
+Reference = P2;
+ValeurCmp = CONN_8;
+IdModule  = planar_arena:JFRC_1X08;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA09D5B
+Path = /4E2F5712
+Reference = J1;
+ValeurCmp = DB9;
+IdModule  = planar_arena:DB9_M09;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA09D6C
+Path = /4E2F5896
+Reference = P13;
+ValeurCmp = CONN_2;
+IdModule  = TERM_7P5MM:TERM_7P5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA09D73
+Path = /4E2F5AAC
+Reference = SW1;
+ValeurCmp = SWITCH_INV;
+IdModule  = SLIDE_SWITCH:slide_switch;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA09D66
+Path = /5AA07F50
+Reference = P12;
+ValeurCmp = DIN_5;
+IdModule  = DIN_5:JFRC_DIN5-TH;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA2D10E
+Path = 
+Reference = M1;
+ValeurCmp = BRACKET_6-32;
+IdModule  = BRACKET_6-32:BRACKET_6-32;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA2D123
+Path = 
+Reference = M2;
+ValeurCmp = BRACKET_6-32;
+IdModule  = BRACKET_6-32:BRACKET_6-32;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA2CB82
+Path = /5AA2CB53
+Reference = H1;
+ValeurCmp = thru_hole_8-32;
+IdModule  = THRU_HOLE_8-32:THRU_HOLE_8-32;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA2C994
+Path = /5AA2CD9C
+Reference = H2;
+ValeurCmp = thru_hole_8-32;
+IdModule  = THRU_HOLE_8-32:THRU_HOLE_8-32;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA2E28F
+Path = /4E2F5895
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = CAP_POL:JFRC_Capacitor_Polarized;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA2E295
+Path = /4E2F57E4
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = CAP_POL:JFRC_Capacitor_Polarized;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA2E29B
+Path = /5AA08CBB
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = CAP_POL:JFRC_Capacitor_Polarized;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA2E2A1
+Path = /5AA08CC1
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = CAP_POL:JFRC_Capacitor_Polarized;
+EndCmp
+
+EndListe

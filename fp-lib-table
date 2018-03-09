@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name DIN_5)(type KiCad)(uri "$(KIPRJMOD)/DIN_5.pretty")(options "")(descr ""))
+  (lib (name planar_arena)(type Legacy)(uri "$(KIPRJMOD)/planar_arena.mod")(options "")(descr ""))
+  (lib (name SLIDE_SWITCH)(type KiCad)(uri "$(KIPRJMOD)/SLIDE_SWITCH.pretty")(options "")(descr ""))
+  (lib (name TERM_7P5MM)(type KiCad)(uri "$(KIPRJMOD)/TERM_7P5MM.pretty")(options "")(descr ""))
+  (lib (name THRU_HOLE_8-32)(type KiCad)(uri "$(KIPRJMOD)/THRU_HOLE_8-32.pretty")(options "")(descr ""))
+  (lib (name BRACKET_6-32)(type KiCad)(uri "$(KIPRJMOD)/BRACKET_6-32.pretty")(options "")(descr ""))
+  (lib (name CAP_POL)(type KiCad)(uri "$(KIPRJMOD)/CAP_POL.pretty")(options "")(descr ""))
+)
